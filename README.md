@@ -1,4 +1,6 @@
-### Hi there 👋
+- 👋 Hi, I’m @Umurangi
+- 👀 I’m interested in Computer Security
+- 🌱 I’m currently learning more about Home Labs
 
 <!--
 **Umurangi/Umurangi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
